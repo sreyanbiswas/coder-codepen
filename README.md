@@ -30,4 +30,4 @@ Your app is ready to be deployed!
 (https://codepen-coders.herokuapp.com/).
 
 ## Screenshots
-![Capture](https://user-images.githubusercontent.com/43917565/125916920-e2ea2c9d-9e7c-41b3-a2d5-2d4e9be51a22.PNG)
+![Capture](https://user-images.githubusercontent.com/43917565/125917566-9370d5cc-272b-4e04-8b17-59f5053f3e4c.PNG)
